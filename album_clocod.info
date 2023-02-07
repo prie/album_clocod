@@ -1,0 +1,3 @@
+name = CloselyCoded Album
+description = Create page to show album from API service
+core = 7.x
